@@ -7,15 +7,16 @@
 - 💞️ I’m looking to collaborate on Large Programs regarding to THSS.
 - 📫 How to reach me ? Send E-mail to shizy22@mails.tsinghua.edu.cn or 2304222380@qq.com.
 ---
-
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/Dynamite2003">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact" />
+    <img style="height: 200px; width: auto; max-width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact" />
   </a>
+  
   <a href="https://github.com/Dynamite2003">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact" />
+    <img style="height: 200px; width: auto; max-width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact" />
   </a>
 </div>
+
 
 ![GitHub Snake Dark](dist/github-snake-dark.svg)
 
