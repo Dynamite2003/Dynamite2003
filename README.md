@@ -5,9 +5,11 @@
 - 📫 How to reach me ? Send E-mail to shizy22@mails.tsinghua.edu.cn or 2304222380@qq.com.
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamite2003&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact)
 
 <!---
 Dynamite2003/Dynamite2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
