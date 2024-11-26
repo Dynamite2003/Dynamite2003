@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6EF7F3&width=435&lines=Welcome+to+SZY's+GitHub;Have+a+great+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=6EF7F3&width=435&lines=Welcome+to+SZY's+GitHub;Have+a+great+day!&align=center)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @Dynamite2003-Shi Zhiyuan.
