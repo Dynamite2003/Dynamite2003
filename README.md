@@ -14,9 +14,8 @@
   </a>
 </div>
 
-![GitHub Snake](dist/github-snake.svg)
 ![GitHub Snake Dark](dist/github-snake-dark.svg)
-![Ocean Snake](dist/ocean.gif)
+
 
 <!---
 Dynamite2003/Dynamite2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
