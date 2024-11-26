@@ -9,8 +9,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dynamite2003&theme=onedark)
-
 
 <!---
 Dynamite2003/Dynamite2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
