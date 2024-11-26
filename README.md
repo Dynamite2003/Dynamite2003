@@ -7,8 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamite2003&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dynamite2003&theme=onedark)
