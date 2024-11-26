@@ -13,7 +13,6 @@
 
 [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Dynamite2003&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <!---
 Dynamite2003/Dynamite2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
