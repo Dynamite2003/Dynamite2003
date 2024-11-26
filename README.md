@@ -5,9 +5,15 @@
 - 📫 How to reach me ? Send E-mail to shizy22@mails.tsinghua.edu.cn or 2304222380@qq.com.
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact)
+<div style="display: flex; justify-content: space-evenly;">
+  <a href="https://github.com/Dynamite2003">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact" />
+  </a>
+  <a href="https://github.com/Dynamite2003">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact" />
+  </a>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact)
 
 
 <!---
