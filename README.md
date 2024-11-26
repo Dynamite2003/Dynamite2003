@@ -9,11 +9,11 @@
 ---
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/Dynamite2003">
-    <img style="height: 150px; width: auto; max-width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact" />
+    <img style="height: 175px; width: auto; max-width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=Dynamite2003&show_icons=true&theme=tokyonight&layout=compact" />
   </a>
   
   <a href="https://github.com/Dynamite2003">
-    <img style="height: 150px; width: auto; max-width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact" />
+    <img style="height: 175px; width: auto; max-width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamite2003&theme=tokyonight&layout=compact" />
   </a>
 </div>
 
