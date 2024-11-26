@@ -32,3 +32,4 @@ jobs:
           git add dist/*.svg dist/*.gif
           git commit -m "Add GitHub Contribution Snake"
           git push origin main  # 将生成的蛇形图推送回 GitHub 仓库
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
