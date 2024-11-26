@@ -11,7 +11,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dynamite2003&theme=onedark)
 
-![GitHub Snake Animation](./dist/github-snake.svg)
 
 <!---
 Dynamite2003/Dynamite2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
